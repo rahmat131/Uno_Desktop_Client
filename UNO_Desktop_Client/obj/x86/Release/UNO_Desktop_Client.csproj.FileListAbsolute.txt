@@ -1,0 +1,22 @@
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\UNO_Desktop_Client.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\UNO_Desktop_Client.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\Smart Home.exe.config
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\Smart Home.exe.manifest
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\Smart Home.application
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\Smart Home.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\Smart Home.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\Smart Home.exe.manifest
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\Smart Home.application
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\Smart Home.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\Smart Home.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\UNO_Desktop_Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\UNO_Desktop_Client.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\UNO_Desktop_Client.Form1.en.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\UNO_Desktop_Client.Form1.yo.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\en\Smart Home.resources.dll
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\yo\Smart Home.resources.dll
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\en\Smart Home.resources.dll
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\yo\Smart Home.resources.dll
+D:\C\Documents\All Smart Home Files\All Smart Home Files\All Files\UNO_Desktop_Client\UNO_Desktop_Client\UNO_Desktop_Client\bin\Release\Smart Home.exe.config
+D:\C\Documents\All Smart Home Files\All Smart Home Files\All Files\UNO_Desktop_Client\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\Smart Home.exe
+D:\C\Documents\All Smart Home Files\All Smart Home Files\All Files\UNO_Desktop_Client\UNO_Desktop_Client\UNO_Desktop_Client\obj\x86\Release\Smart Home.pdb
